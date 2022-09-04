@@ -1,1 +1,1 @@
-Script that changes the working directory
+Script that changes working directory
