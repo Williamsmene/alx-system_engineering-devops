@@ -1,1 +1,1 @@
-Delete the directory my_first_directory
+Script that changes the working directory
