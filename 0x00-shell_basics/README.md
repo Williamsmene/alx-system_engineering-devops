@@ -1,1 +1,1 @@
-Write a script that lists all filesin the current directory
+Write a script that prints the type of the file namediamafile
