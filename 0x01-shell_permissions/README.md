@@ -1,1 +1,1 @@
-Write a script that adds execute permissions to the file
+Write a script that adds execute permissions to the owner
