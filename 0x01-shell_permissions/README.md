@@ -1,1 +1,1 @@
-Write a script that changes the group owner
+Write a script that changes the owner in the working directory
