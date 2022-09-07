@@ -1,2 +1,1 @@
-Write a script that changes the owner and group
-Write a script that changes the owner of the file
+Write a script that will play the starwars IV in the terminal
