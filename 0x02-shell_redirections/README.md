@@ -1,1 +1,1 @@
-Display the first 10 lines
+Write a script that display the third line
