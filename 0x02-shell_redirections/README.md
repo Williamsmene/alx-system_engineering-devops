@@ -1,1 +1,1 @@
-Create a script that takes a list of words as input
+Display the number of lines that contain the pattern bin
