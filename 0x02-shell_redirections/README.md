@@ -1,1 +1,1 @@
-Write a script that display the third line
+Write a script that writes into the file
