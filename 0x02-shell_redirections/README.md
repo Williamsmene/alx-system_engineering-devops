@@ -1,1 +1,1 @@
-Write a script that duplicates the last line of a file
+Write a script that deletes all the regular files
