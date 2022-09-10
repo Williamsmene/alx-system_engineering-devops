@@ -1,2 +1,1 @@
-Display the number of lines
-Display lines containing patterns
+Display all the lines in the file
