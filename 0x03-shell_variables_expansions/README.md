@@ -1,1 +1,1 @@
-Creae a script that prints all possible combinations
+Write a script that prints a number with two decimal
