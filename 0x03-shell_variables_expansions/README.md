@@ -1,1 +1,1 @@
-There are 10 types of people in the world
+Creae a script that prints all possible combinations
