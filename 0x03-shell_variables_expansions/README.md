@@ -1,1 +1,1 @@
-Write a script that prints the result of Power divided by divide
+Wrie a scrip that prints the result of power divided by divide
