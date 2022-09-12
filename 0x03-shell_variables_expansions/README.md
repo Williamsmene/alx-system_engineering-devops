@@ -1,1 +1,1 @@
-Write a script that displays the result
+There are 10 types of people in the world
